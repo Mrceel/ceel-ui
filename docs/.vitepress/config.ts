@@ -5,7 +5,7 @@ import { containerPreview, componentPreview } from '@vitepress-demo-preview/plug
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
-  base: '/vitepress-demo-preview/',
+  base: '/',
   appearance: false,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
