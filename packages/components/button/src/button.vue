@@ -7,6 +7,7 @@ defineOptions({
 })
 </script>
 <style lang="scss" scoped>
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -14,7 +15,6 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  // background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
 }

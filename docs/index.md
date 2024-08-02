@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "My CEEL-UI Project"
+  # text: "A VitePress Site"
+  tagline: 一个ui组件库
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      link: /examples
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
 features:
   - title: Feature A
